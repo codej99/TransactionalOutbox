@@ -1,0 +1,1 @@
+POST http://localhost:8080/register/license?userid=aaabhgfh12345&episodeId=99999
